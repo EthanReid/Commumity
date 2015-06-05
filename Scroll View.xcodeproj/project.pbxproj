@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		CA01DD661B213ECF004B6C0A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA01DD641B213ECF004B6C0A /* Main.storyboard */; };
+		CA01DD681B215815004B6C0A /* Create Event .png in Resources */ = {isa = PBXBuildFile; fileRef = CA01DD671B215815004B6C0A /* Create Event .png */; };
+		CA01DD6A1B21581C004B6C0A /* Events Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = CA01DD691B21581C004B6C0A /* Events Circle.png */; };
 		CA5A2E761B21345E00378DFA /* Dog_Walking_Etiquette.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CA5A2E751B21345E00378DFA /* Dog_Walking_Etiquette.jpg */; };
 		CA5A2E781B21346500378DFA /* Mentors-CoderDojo-Milano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CA5A2E771B21346500378DFA /* Mentors-CoderDojo-Milano.jpg */; };
 		CA5A2E7A1B21346E00378DFA /* url-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CA5A2E791B21346E00378DFA /* url-1.jpg */; };
@@ -43,6 +45,8 @@
 
 /* Begin PBXFileReference section */
 		CA01DD651B213ECF004B6C0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CA01DD671B215815004B6C0A /* Create Event .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Create Event .png"; sourceTree = "<group>"; };
+		CA01DD691B21581C004B6C0A /* Events Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Events Circle.png"; sourceTree = "<group>"; };
 		CA5A2E751B21345E00378DFA /* Dog_Walking_Etiquette.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dog_Walking_Etiquette.jpg; sourceTree = "<group>"; };
 		CA5A2E771B21346500378DFA /* Mentors-CoderDojo-Milano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mentors-CoderDojo-Milano.jpg"; sourceTree = "<group>"; };
 		CA5A2E791B21346E00378DFA /* url-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "url-1.jpg"; sourceTree = "<group>"; };
@@ -155,6 +159,8 @@
 		CEF01DBB19A70CFB006C6EC3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CA01DD691B21581C004B6C0A /* Events Circle.png */,
+				CA01DD671B215815004B6C0A /* Create Event .png */,
 				CA5A2E7F1B21348000378DFA /* triangle-pattern.jpg */,
 				CA5A2E7D1B21347B00378DFA /* V0925-203_t670.JPG */,
 				CA5A2E791B21346E00378DFA /* url-1.jpg */,
@@ -276,11 +282,13 @@
 				CA5A2E7C1B21347600378DFA /* big event landscaping.jpg in Resources */,
 				CEF01DEF19A7146D006C6EC3 /* bgcolor.png in Resources */,
 				CEF01DCD19A70CFB006C6EC3 /* Images.xcassets in Resources */,
+				CA01DD681B215815004B6C0A /* Create Event .png in Resources */,
 				CA5A2E781B21346500378DFA /* Mentors-CoderDojo-Milano.jpg in Resources */,
 				CEF01DBF19A70CFB006C6EC3 /* InfoPlist.strings in Resources */,
 				CA5A2E7E1B21347B00378DFA /* V0925-203_t670.JPG in Resources */,
 				CA5A2E7A1B21346E00378DFA /* url-1.jpg in Resources */,
 				CA5A2E761B21345E00378DFA /* Dog_Walking_Etiquette.jpg in Resources */,
+				CA01DD6A1B21581C004B6C0A /* Events Circle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
