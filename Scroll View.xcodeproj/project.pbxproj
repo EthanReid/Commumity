@@ -16,6 +16,9 @@
 		CA5A2E7C1B21347600378DFA /* big event landscaping.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CA5A2E7B1B21347600378DFA /* big event landscaping.jpg */; };
 		CA5A2E7E1B21347B00378DFA /* V0925-203_t670.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CA5A2E7D1B21347B00378DFA /* V0925-203_t670.JPG */; };
 		CA5A2E801B21348000378DFA /* triangle-pattern.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CA5A2E7F1B21348000378DFA /* triangle-pattern.jpg */; };
+		CA985AC51B221FE100B3E6E5 /* certiget circle.png in Resources */ = {isa = PBXBuildFile; fileRef = CA985AC41B221FE100B3E6E5 /* certiget circle.png */; };
+		CA985AC91B2220FC00B3E6E5 /* certifigets circle center.png in Resources */ = {isa = PBXBuildFile; fileRef = CA985AC81B2220FC00B3E6E5 /* certifigets circle center.png */; };
+		CA985ACB1B22247000B3E6E5 /* certificate-of-graduation-template.png in Resources */ = {isa = PBXBuildFile; fileRef = CA985ACA1B22247000B3E6E5 /* certificate-of-graduation-template.png */; };
 		CEF01DB519A70CFB006C6EC3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEF01DB419A70CFB006C6EC3 /* Foundation.framework */; };
 		CEF01DB719A70CFB006C6EC3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEF01DB619A70CFB006C6EC3 /* CoreGraphics.framework */; };
 		CEF01DB919A70CFB006C6EC3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEF01DB819A70CFB006C6EC3 /* UIKit.framework */; };
@@ -53,6 +56,9 @@
 		CA5A2E7B1B21347600378DFA /* big event landscaping.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "big event landscaping.jpg"; sourceTree = "<group>"; };
 		CA5A2E7D1B21347B00378DFA /* V0925-203_t670.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "V0925-203_t670.JPG"; sourceTree = "<group>"; };
 		CA5A2E7F1B21348000378DFA /* triangle-pattern.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "triangle-pattern.jpg"; sourceTree = "<group>"; };
+		CA985AC41B221FE100B3E6E5 /* certiget circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "certiget circle.png"; sourceTree = "<group>"; };
+		CA985AC81B2220FC00B3E6E5 /* certifigets circle center.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "certifigets circle center.png"; sourceTree = "<group>"; };
+		CA985ACA1B22247000B3E6E5 /* certificate-of-graduation-template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "certificate-of-graduation-template.png"; sourceTree = "<group>"; };
 		CEF01DB119A70CFB006C6EC3 /* Scroll View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Scroll View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF01DB419A70CFB006C6EC3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CEF01DB619A70CFB006C6EC3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -161,8 +167,11 @@
 			children = (
 				CA01DD691B21581C004B6C0A /* Events Circle.png */,
 				CA01DD671B215815004B6C0A /* Create Event .png */,
+				CA985AC41B221FE100B3E6E5 /* certiget circle.png */,
+				CA985ACA1B22247000B3E6E5 /* certificate-of-graduation-template.png */,
 				CA5A2E7F1B21348000378DFA /* triangle-pattern.jpg */,
 				CA5A2E7D1B21347B00378DFA /* V0925-203_t670.JPG */,
+				CA985AC81B2220FC00B3E6E5 /* certifigets circle center.png */,
 				CA5A2E791B21346E00378DFA /* url-1.jpg */,
 				CA5A2E7B1B21347600378DFA /* big event landscaping.jpg */,
 				CA5A2E771B21346500378DFA /* Mentors-CoderDojo-Milano.jpg */,
@@ -281,12 +290,15 @@
 				CA01DD661B213ECF004B6C0A /* Main.storyboard in Resources */,
 				CA5A2E7C1B21347600378DFA /* big event landscaping.jpg in Resources */,
 				CEF01DEF19A7146D006C6EC3 /* bgcolor.png in Resources */,
+				CA985ACB1B22247000B3E6E5 /* certificate-of-graduation-template.png in Resources */,
 				CEF01DCD19A70CFB006C6EC3 /* Images.xcassets in Resources */,
 				CA01DD681B215815004B6C0A /* Create Event .png in Resources */,
 				CA5A2E781B21346500378DFA /* Mentors-CoderDojo-Milano.jpg in Resources */,
+				CA985AC51B221FE100B3E6E5 /* certiget circle.png in Resources */,
 				CEF01DBF19A70CFB006C6EC3 /* InfoPlist.strings in Resources */,
 				CA5A2E7E1B21347B00378DFA /* V0925-203_t670.JPG in Resources */,
 				CA5A2E7A1B21346E00378DFA /* url-1.jpg in Resources */,
+				CA985AC91B2220FC00B3E6E5 /* certifigets circle center.png in Resources */,
 				CA5A2E761B21345E00378DFA /* Dog_Walking_Etiquette.jpg in Resources */,
 				CA01DD6A1B21581C004B6C0A /* Events Circle.png in Resources */,
 			);
